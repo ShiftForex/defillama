@@ -24,7 +24,7 @@ This is a work in progress. The goal is to eventually handle historical data. De
 
 If you have any suggestions, want to contribute or want to chat, please join [our discord](https://discord.defillama.com/) and drop a message.
 
-## Testing adapters
+### Testing adapters
 ```
 node test.js projects/pangolin/index.js
 ```
